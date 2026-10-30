@@ -24,5 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-singh&show_icons=true&locale=en&layout=compact" alt="prakash-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-singh&" alt="prakash-singh" /></p>
-
-![Prakash's github stats](https://github-stats-extended.vercel.app/api?username=breakdowns&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
